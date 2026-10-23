@@ -1,0 +1,60 @@
+body {
+    background-color: blanchedalmond;
+    margin: 20px 64px auto;
+}
+
+img {
+    border: 3px solid burlywood;
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    background-color:bisque;
+    border: 2px solid burlywood;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.itens {
+    text-align: center;
+}
+
+div {
+    background-color:bisque;
+    border-radius: 8px;
+    padding: 10px 30px;
+}
+
+ul, ol {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    padding: 15px 40px;
+    border: 2px solid burlywood;
+}
+
+li {
+    padding: 7px;
+}
+
+.listas {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: center;
+}
